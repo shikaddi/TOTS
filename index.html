@@ -78,21 +78,29 @@
 
 	<!-- Construct 2 exported games require jQuery. -->
   <script>
-	parent = window.parent;
       	console.log("test");
       	function youLost() {
 	    alert("lost");
-	    parent.lost();
+	    window.parent.postMessage({
+		    'func': 'parentFunc',
+		    'message': 'lost'
+		}, "*");
 	}
 
 	function checkAchievements(json = {data : ""}) {
         	let data = json.data;
 	    	console.log(data);
-		parent.achievement(data);
+		window.parent.postMessage({
+	    'func': 'parentFunc',
+	    'message': 'achievement' + data
+	}, "*");
 	}
       	function youWin() {
         	alert("won");
-		parent.win();
+		window.parent.postMessage({
+		    'func': 'parentFunc',
+		    'message': 'win'
+		}, "*");
       	}
   </script>
 	<script src="jquery-2.1.1.min.js"></script>
