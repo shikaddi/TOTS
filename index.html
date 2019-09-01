@@ -89,10 +89,10 @@
 
 	function checkAchievements(json = {data : ""}) {
         	let data = json.data;
-	    	console.log(data);
+	    	console.log("data from github", data);
 		window.parent.postMessage({
 	    'func': 'parentFunc',
-	    'message': 'achievement' + data
+	    'message': 'achievement',
 	}, "*");
 	}
       	function youWin() {
