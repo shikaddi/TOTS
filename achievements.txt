@@ -1,0 +1,27 @@
+Speed Demon
+Skeleton floors (1-7) - 7m20
+vampire floors (8-14) - 7m15 (total 14m35)
+magic floors (15-50) - 4m30 (total 19m05)
+
+13+1
+
+Coin Seeker - have 100 gold - 1
+Coin Collector - have 300 gold - 2
+Coin Connoiseur - have 500 gold - 3
+Coin Hoarder - have 1000 gold - 5
+Armament Master - have 130 offense - 3
+Invincibility - have 160 defense - 3
+Nitwit - have 30+ offesne & defense in area 1 - 1
+
+--
+
+Protector - Kill Skeleton A - 1
+Vampire Slayer - Kill the Vampire - 2
+Dispeller - Kill the Magic Captain - 3
+Speed Freak - Complete the game in under 30 minutes - 4
+Speed Demon - Complete the game in under 20 minutes - 5
+Full Circle - Collect all Unique Items - 3
+Flawless Perfomance - Kill all 9 Dark Mercenaries in combat - 5
+
+
+// medals  buch open game art -> https://opengameart.org/users/buch
