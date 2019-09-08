@@ -1,7 +1,7 @@
 {"c2array":true,"size":[24,3,1], "data":[
-[[0],["A green door can only be opened by fighting its" & newline &  "guardians"],["0"]],
+[[0],["A green door can only be opened by fighting its\nguardians"],["0"]],
 [[0],["I will grant you additional strength and defense"],["Blessing"]],
-[[0],["This Sceptre of Insight reveals how much health each fight would cost by clicking on it."],["Sceptre_Red"]],
+[[0],["This Sceptre of Insight\n reveals how much health each fight would cost by clicking on it."],["Sceptre_Red"]],
 [[0],["Have you found the weak point in the wall on floor 2?"],["Sceptre_Red"]],
 [[1],["Do you want to buy five keys for just 40 gold?"],["0"]],
 [[3],["Do you want to buy a very special red key for only 250 gold?"],["0"]],
