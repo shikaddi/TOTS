@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1568316283,
+	"version": 1569085894,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,7 @@
 		"images/altarbox-sheet0.png",
 		"images/scepterbox-sheet0.png",
 		"images/scepterbox-sheet1.png",
+		"images/scepterbox-sheet2.png",
 		"images/scepterredbox-sheet0.png",
 		"images/door_collapsingwall-sheet0.png",
 		"images/scepterpurple-sheet0.png",
